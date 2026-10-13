@@ -167,8 +167,9 @@ Communication and Support
 * MAINTAINERS file: Lists subsystem maintainers and mailing lists
 * Email Clients: Documentation/proc
 
-* I'm also one of the Maintainer for Linux Kernel 7.2.4 for Btrfs Filesystesm....
+* I'm also one of the Maintainer for Linux Kernel 7.2.4 for Btrfs Filesystem....
 * Khairul Azrin B. Azman ( Malaysia )
 * Email: khairulazrin2025@gmail.com
+* Year: 2026
 
   
